@@ -8,7 +8,7 @@ The script:
 
 - Applies contrast enhancement + LUT.
 
-- Flips image orientation.
+- Flips image orientation (user may adjust their orientation settings).
 
 - Reslices to generate orthogonal views (top, left).
 
