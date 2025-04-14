@@ -20,9 +20,14 @@ The script:
 
 
 To run the script: 
+
 1- Download 'loader.py' from the repository
+
 2- Locate imagej folder in your system: Search for imagej and select 'Open file location'
+
 3- Open plugins folder
+
 4- Copy and paste 'loader.py' into the plugins folder
+
 5- Restart ImageJ (Fiji)
 6- Run 'loader' from plguins tab
